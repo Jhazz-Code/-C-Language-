@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634265695 source:f:\itts\data tugas\semester 1\it\alpro\project\program volume dan luas permukaan tabung\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
