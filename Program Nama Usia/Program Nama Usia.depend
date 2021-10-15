@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634263518 source:f:\itts\data tugas\semester 1\it\alpro\project\program nama usia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634268295 source:f:\itts\data tugas\semester 1\it\alpro\project\program logistik kapal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
